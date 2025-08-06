@@ -54,7 +54,7 @@ Setup Steps
 Clone the Repository:
 
 bash
-git clone(https://aman18raj.github.io/PGLife-/)t
+git clone https://github.com/aman18raj/pg-life.git
 cd pg-life
 Configure Database:
 
